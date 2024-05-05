@@ -1,0 +1,17 @@
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/bin/Debug/net8.0/CalcANTLR
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/bin/Debug/net8.0/CalcANTLR.deps.json
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/bin/Debug/net8.0/CalcANTLR.runtimeconfig.json
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/bin/Debug/net8.0/CalcANTLR.dll
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/bin/Debug/net8.0/CalcANTLR.pdb
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/bin/Debug/net8.0/Antlr3.Runtime.dll
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/CalcANTLR.csproj.AssemblyReference.cache
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/CalcANTLR.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/CalcANTLR.AssemblyInfoInputs.cache
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/CalcANTLR.AssemblyInfo.cs
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/CalcANTLR.csproj.CoreCompileInputs.cache
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/CalcANTLR.csproj.Up2Date
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/CalcANTLR.dll
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/refint/CalcANTLR.dll
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/CalcANTLR.pdb
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/CalcANTLR.genruntimeconfig.cache
+/home/roman/RiderProjects/CalcANTLR/CalcANTLR/obj/Debug/net8.0/ref/CalcANTLR.dll
