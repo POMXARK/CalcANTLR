@@ -1,0 +1,5 @@
+*.tokens
+*Lexer.*
+*Parser.*
+[Bb]in/
+[Oo]bj/
